@@ -16,7 +16,7 @@
 
 <br />
 <br />
-# Blog posts
+<h6> Blog posts </h6>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
