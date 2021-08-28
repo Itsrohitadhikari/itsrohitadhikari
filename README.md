@@ -12,7 +12,7 @@
 <br />
 
 ### Github Stat's
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitadhikari0&theme=dark&show_icons=true)
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsrohitadhikari&theme=dark&show_icons=true)
 
 
 [website]: https://Rohitadhikari.com.np
